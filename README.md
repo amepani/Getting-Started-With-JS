@@ -14,6 +14,8 @@ Javascript Do's and Don't
     - https://www.w3schools.com/cssref/trysel.asp
     - https://www.w3schools.com/jquery/jquery_ref_selectors.asp
  - Underscore JS -Javascript Utitlity library (http://underscorejs.org/)
+ - ES6(ES2015) Features
+    -  https://ponyfoo.com/articles/es6
   
 ### JSON Public api for Ajax request
 
