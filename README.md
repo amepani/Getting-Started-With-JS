@@ -1,2 +1,2 @@
 # Getting-Started-With-JS
-This repository gives you basic idea about how effectively you use JS on client side
+This repository gives you a basic idea about how effectively you use JS on a client side.
